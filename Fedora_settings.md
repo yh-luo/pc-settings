@@ -127,6 +127,12 @@ sudo dnf install gcc-c++
             sudo dnf install avahi-libs
             sudo dnf install python3-devel
             ```
+    5. Setting up v-sync
+        - [source](https://rpmfusion.org/Howto/Optimus)
+        - Check
+            ```bash
+            glxgears
+            ```
 
 ## Setting up R
 
