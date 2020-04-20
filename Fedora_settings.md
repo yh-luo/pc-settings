@@ -16,7 +16,7 @@ deltarpm=True
 
 + Update packages
     ```bash
-    sudo dnf update
+    sudo dnf upgrade --refresh  # dnf update is deprecated
     ```
 + Remove caches
     ```bash
